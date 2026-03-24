@@ -5,7 +5,6 @@ public class LisEnc {
     
     private LinkedList<Integer> lisEnc = new LinkedList<>();
     
-    // Pure logic: takes a parameter, adds it to the list
     public void addElem(int num) {
         lisEnc.add(num);
     }
